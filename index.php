@@ -27,7 +27,7 @@ if ($_GET) {
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=480">
-    <title>Стилька куртка</title>
+    <title>Стильна куртка</title>
 
     <meta name="description" content="" />
     <link rel="shortcut icon" href="index.php" />
